@@ -1,2 +1,3 @@
 # miniature-lamp
 Illuminated
+signed
